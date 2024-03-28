@@ -8,3 +8,12 @@
 
 ### Adam
 - https://www.kdnuggets.com/2022/12/tuning-adam-optimizer-parameters-pytorch.html
+
+### Inference
+https://pytorch.org/tutorials/intermediate/flask_rest_api_tutorial.html
+
+### VGG
+https://blog.paperspace.com/vgg-from-scratch-pytorch/
+
+### Fine Tuning
+https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html
